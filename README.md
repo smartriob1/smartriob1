@@ -43,5 +43,3 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
 ## 🎨 Intereses
 
 - Desarrollo FullStack
-
-¡Gracias por visitar mi perfil de GitHub!
