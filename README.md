@@ -16,6 +16,9 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
   
   [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs)
+
+  [![Ontimize](https://avatars.githubusercontent.com/u/22213527?s=200&v=4)](https://ontimize.github.io/docs/v3/)
+  
   
 - **Bases de Datos**:
   
