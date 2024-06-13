@@ -14,7 +14,7 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
   
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot) 
   [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs) 
-  [<img src="https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png" alt="Ontimize" height="45">](https://ontimize.github.io/docs/v3/)
+  [<img src="https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png" alt="Ontimize" height="40">](https://ontimize.github.io/docs/v3/)
   
 ### Bases de Datos
   
