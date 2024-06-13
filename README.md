@@ -51,6 +51,3 @@ Graduada en Desarrollo de Aplicaciones Multiplataforma, con una pasión por apre
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white%22)](https://www.linkedin.com/in/silvia-martinez-532b3824b)
 
-## 🎨 Intereses | Interests
-
-- Desarrollo FullStack | FullStack Development
