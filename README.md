@@ -1,6 +1,4 @@
-# 🐼 Hola, soy Silvia | Hi, I'm Silvia
-
-## 💭 Acerca de mí | About Me
+# 💭 Hola, soy Silvia | Hi, I'm Silvia
 
 Graduada en Desarrollo de Aplicaciones Multiplataforma, con una pasión por aprender y experimentar con nuevas tecnologías. | Graduate in Multiplatform Application Development, with a passion for learning and experimenting with new technologies.
 
@@ -40,9 +38,6 @@ Graduada en Desarrollo de Aplicaciones Multiplataforma, con una pasión por apre
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=smartriob1&show_icons=true&theme=radical)
 
-![Tus estadísticas de GitHub 2](https://github-readme-stats.vercel.app/api/top-langs/?username=smartriob1&layout=compact&langs_count=16&theme=dracula)
-
 ## 📫 Cómo contactarme | How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white%22)](https://www.linkedin.com/in/silvia-martinez-532b3824b)
-
