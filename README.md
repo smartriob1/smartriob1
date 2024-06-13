@@ -2,7 +2,7 @@
 
 ## 💭 Acerca de mí
 
-Me he graduado del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me encanta aprender y experimentar con nuevas tecnologías.
+Graduada de Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me encanta aprender y experimentar con nuevas tecnologías.
 
 ## 🚀 Habilidades
 
