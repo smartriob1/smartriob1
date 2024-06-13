@@ -17,7 +17,7 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
   
   [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs)
 
-  [![Ontimize](https://avatars.githubusercontent.com/u/22213527?s=200&v=4)](https://ontimize.github.io/docs/v3/)
+  [![Ontimize](https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png)](https://ontimize.github.io/docs/v3/)
   
   
 - **Bases de Datos**:
