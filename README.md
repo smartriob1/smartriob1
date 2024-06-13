@@ -1,7 +1,5 @@
 # 👋 Hola, soy Silvia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/silvia-martinez-532b3824b)
-
 ## 💭 Acerca de mí
 
 Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además me encanta aprender y experimentar con nuevas tecnologías.
@@ -23,8 +21,7 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
 
 ## 📫 Cómo contactarme
 
-- LinkedIN: [linkedin.com/in/silvia-martinez-532b3824b](https://www.linkedin.com/in/silvia-martinez-532b3824b)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/silvia-martinez-532b3824b)
 
 ## 🎨 Intereses
 
