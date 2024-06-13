@@ -53,4 +53,4 @@ Graduada de Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
 
 ## 🎨 Intereses | Interests
 
-- Desarrollo FullStack
+- Desarrollo FullStack | FullStack Development
