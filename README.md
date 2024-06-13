@@ -43,7 +43,7 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
 
 ## 📫 Cómo contactarme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/silvia-martinez-532b3824b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white%22)](https://www.linkedin.com/in/silvia-martinez-532b3824b)
 
 ## 🎨 Intereses
 
