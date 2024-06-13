@@ -2,7 +2,7 @@
 
 ## 💭 Acerca de mí | About Me
 
-Graduada de Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me encanta aprender y experimentar con nuevas tecnologías.
+Graduada en Desarrollo de Aplicaciones Multiplataforma, con una pasión por aprender y experimentar con nuevas tecnologías. | Graduate in Multiplatform Application Development, with a passion for learning and experimenting with new technologies.
 
 ## 🚀 Habilidades | Skills
 
