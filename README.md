@@ -45,6 +45,3 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
 - Desarrollo FullStack
 
 ¡Gracias por visitar mi perfil de GitHub!
-
-
-![snake animation](https://github.com/smartriob1/smartriob1/blob/output/github-contribution-grid-snake2.svg)
