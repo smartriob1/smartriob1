@@ -1,4 +1,4 @@
-# 👋 Hola, soy Silvia
+# 🐼 Hola, soy Silvia
 
 ## 💭 Acerca de mí
 
