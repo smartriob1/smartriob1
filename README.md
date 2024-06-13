@@ -35,7 +35,7 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
 
 ## 📈 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=smartriob1&include_all_commits=true&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=smartriob1&show_icons=true&theme=radical)
 
 ## 📫 Cómo contactarme
 
