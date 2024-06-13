@@ -2,7 +2,7 @@
 
 ## 💭 Acerca de mí
 
-Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me encanta aprender y experimentar con nuevas tecnologías.
+Me he graduado del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me encanta aprender y experimentar con nuevas tecnologías.
 
 ## 🚀 Habilidades
 
@@ -25,10 +25,6 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
 ### Herramientas
   
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-
-## 🌱 Actualmente
-
-- Aprendiendo FullStack
 
 ## 📈 Estadísticas de GitHub
 
