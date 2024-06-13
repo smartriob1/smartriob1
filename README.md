@@ -39,7 +39,7 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=smartriob1&show_icons=true&theme=radical)
 
-![Tus estadísticas de GitHub 2](https://github-readme-stats.vercel.app/api/top-langs/?username=borja-garcia-valcarcel&layout=compact&langs_count=16&theme=dracula)
+![Tus estadísticas de GitHub 2](https://github-readme-stats.vercel.app/api/top-langs/?username=smartriob1&layout=compact&langs_count=16&theme=dracula)
 
 ## 📫 Cómo contactarme
 
