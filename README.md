@@ -1,6 +1,6 @@
 # 👋 Hola, soy Silvia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](www.linkedin.com/in/silvia-martinez-532b3824b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)]("www.linkedin.com/in/silvia-martinez-532b3824b")
 
 ## Acerca de mí
 
