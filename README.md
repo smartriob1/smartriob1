@@ -8,7 +8,7 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
 
 - **Lenguajes de Programación**:
   
-  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/)
+  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 
   [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - **Frameworks y Librerías**:
