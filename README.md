@@ -31,7 +31,10 @@ Graduada de Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
   
 ### Herramientas
   
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
+  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) 
+  [![DBeaver](https://img.shields.io/badge/DBeaver-00ACC1?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/) 
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ## 📈 Estadísticas de GitHub
 
