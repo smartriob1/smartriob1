@@ -7,19 +7,10 @@ Graduada en Desarrollo de Aplicaciones Multiplataforma, con una pasión por apre
 ### Lenguajes de Programación | Programming Languages
   
   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/) 
-  [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
-  
-### Frameworks y Librerías | Frameworks and Libraries
-  
-  [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) 
-  [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs) 
-  [<img src="https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png" alt="Ontimize" height="30" width="105">](https://ontimize.github.io/docs/v3/)
   
 ### Bases de Datos | Databases
   
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) 
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/) 
   [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
 ### Lenguajes de Marcas | Markup Languages
@@ -33,6 +24,22 @@ Graduada en Desarrollo de Aplicaciones Multiplataforma, con una pasión por apre
   [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) 
   [![DBeaver](https://img.shields.io/badge/DBeaver-00ACC1?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/) 
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
+
+## 💻 Aprendiendo | Learning
+
+### Lenguajes de Programación | Programming Languages
+
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+  
+### Frameworks y Librerías | Frameworks and Libraries
+  
+  [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) 
+  [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs) 
+  [<img src="https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png" alt="Ontimize" height="30" width="105">](https://ontimize.github.io/docs/v3/)
+  
+### Bases de Datos | Databases
+
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/) 
 
 ## 📈 Estadísticas de GitHub | GitHub Stats
 
