@@ -41,9 +41,6 @@ Graduada en Desarrollo de Aplicaciones Multiplataforma, con una pasión por apre
 
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/) 
 
-## 📈 Estadísticas de GitHub | GitHub Stats
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=smartriob1&show_icons=true&theme=radical)
 
 ## 📫 Cómo contactarme | How to Reach Me
 
